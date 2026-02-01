@@ -1,6 +1,6 @@
 # NumPy Data Explorer 🧮
 
-**Virtual Internship Project** - Complete NumPy skills demonstration on sales data analysis!
+** Syntecxhub Virtual Internship Project** - Complete NumPy skills demonstration on sales data analysis!
 
 ![Complete Analysis](outputs/complete_analysis.png)
 
@@ -73,7 +73,7 @@ numpy-data-explorer/
 
 ## 💼 **Summary**
 ```
-NumPy Data Explorer | Python/NumPy | GitHub Portfolio Project
+NumPy Data Explorer | Python/NumPy 
 
 - Complete data analysis pipeline analyzing $130K sales data using all NumPy fundamentals
 - Demonstrated 4-25x performance improvement over Python lists through vectorized operations
