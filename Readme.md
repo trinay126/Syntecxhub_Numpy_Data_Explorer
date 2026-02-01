@@ -1,4 +1,4 @@
-# NumPy Data Explorer 🧮
+#  Syntcxhub NumPy Data Explorer 🧮
 
 ** Syntecxhub Virtual Internship Project** - Complete NumPy skills demonstration on sales data analysis!
 
